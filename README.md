@@ -1,6 +1,6 @@
 # Form with Redux and Typescript
 
-In this project I worked with redux and typescript. For a while I am learning Typescript, but I haven't worked with redux and Typescript. I wacthed a video which is from
+In this project I worked with redux and typescript. For a while I am learning and working Typescript, but I haven't worked with redux and Typescript. I wacthed a video which is from
 Cory McAboy and It was pretty a instructive video. If you want to learn or improve yourself about it. You watch it. 
 
 [Cory McAboy Redux with Typescript Video](https://www.youtube.com/watch?v=dZZxegovK9Q)
